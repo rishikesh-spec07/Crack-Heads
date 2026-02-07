@@ -1,0 +1,64 @@
+# Information Security Management System (ISMS) Policy
+
+## 1. Purpose
+This policy establishes the framework for managing information security within the organization.
+
+## 2. Scope
+This policy applies to all employees, contractors, and third-party service providers who have access to organizational information systems and data.
+
+## 3. Information Security Objectives
+The organization is committed to:
+- Protecting the confidentiality, integrity, and availability of information assets
+- Ensuring compliance with applicable laws and regulations
+- Minimizing business risks related to information security
+
+## 4. Roles and Responsibilities
+### 4.1 Management
+Senior management is responsible for:
+- Approving the information security policy
+- Allocating adequate resources for information security
+- Reviewing security performance quarterly
+
+### 4.2 IT Department
+The IT department shall:
+- Implement technical security controls
+- Maintain system security logs
+- Respond to security incidents
+
+### 4.3 Employees
+All employees must:
+- Complete annual security awareness training
+- Report suspected security incidents
+- Comply with acceptable use policies
+
+## 5. Access Control
+### 5.1 User Access Management
+- User accounts shall be created based on business need
+- Access rights shall be reviewed annually
+- Terminated employee access shall be revoked within 24 hours
+
+### 5.2 Password Requirements
+- Passwords must be at least 8 characters long
+- Passwords should contain a mix of letters and numbers
+- Passwords shall not be shared
+
+## 6. Physical Security
+- Server rooms shall be locked and access restricted
+- Visitor access shall be logged and escorted
+- Workstations shall be locked when unattended
+
+## 7. Incident Response
+- Security incidents shall be reported to IT department
+- Incident response team will investigate reported incidents
+- Lessons learned will be documented after major incidents
+
+## 8. Compliance
+This policy will be reviewed annually and updated as necessary to ensure continued effectiveness.
+
+## 9. Policy Violations
+Violations of this policy may result in disciplinary action up to and including termination of employment.
+
+---
+**Approved by:** IT Director  
+**Effective Date:** January 1, 2024  
+**Next Review:** January 1, 2025

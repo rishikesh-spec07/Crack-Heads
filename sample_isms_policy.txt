@@ -1,0 +1,50 @@
+INFORMATION SECURITY MANAGEMENT POLICY
+
+1. PURPOSE
+The purpose of this policy is to define the organization’s approach to protecting
+information assets against unauthorized access, disclosure, alteration, or destruction.
+
+2. SCOPE
+This policy applies to all employees, contractors, and third-party users who access
+organizational information systems or data.
+
+3. INFORMATION SECURITY OBJECTIVES
+The organization aims to:
+- Protect the confidentiality and integrity of business information
+- Ensure availability of critical systems
+- Reduce information security risks to an acceptable level
+
+4. ROLES AND RESPONSIBILITIES
+- Management is responsible for supporting information security initiatives.
+- Employees must comply with security policies and procedures.
+- The IT team is responsible for maintaining system security.
+
+5. ASSET MANAGEMENT
+The organization shall identify major information assets and ensure that systems
+supporting critical business operations are protected.
+
+6. ACCESS CONTROL
+Access to information systems shall be restricted to authorized users.
+User accounts shall be reviewed periodically.
+Passwords must not be shared.
+
+7. DATA PROTECTION
+Sensitive data should be protected from unauthorized access.
+Basic measures shall be taken to prevent data loss.
+
+8. AWARENESS AND TRAINING
+Employees shall receive information security awareness training during onboarding.
+
+9. INCIDENT MANAGEMENT
+Security incidents shall be reported to the IT department when identified.
+
+10. COMPLIANCE
+The organization shall comply with applicable legal and regulatory requirements
+related to information security.
+
+11. POLICY REVIEW
+This policy shall be reviewed periodically and updated as required.
+
+12. ENFORCEMENT
+Failure to comply with this policy may result in disciplinary action.
+
